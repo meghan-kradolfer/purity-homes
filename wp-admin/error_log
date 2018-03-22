@@ -1,0 +1,63 @@
+[21-Apr-2016 21:05:58 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 7181145 bytes) in /home/purityho/public_html/wp-includes/wp-db.php on line 1262
+[23-Apr-2016 13:01:20 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 7195113 bytes) in /home/purityho/public_html/wp-includes/wp-db.php on line 1262
+[24-Apr-2016 13:39:19 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 7195097 bytes) in /home/purityho/public_html/wp-includes/wp-db.php on line 1262
+[25-Apr-2016 14:10:07 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 7195097 bytes) in /home/purityho/public_html/wp-includes/wp-db.php on line 1262
+[26-Apr-2016 22:56:21 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 7227069 bytes) in /home/purityho/public_html/wp-includes/wp-db.php on line 1262
+[27-Apr-2016 23:05:21 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 3630057 bytes) in /home/purityho/public_html/wp-includes/wp-db.php on line 1261
+[29-Apr-2016 10:48:00 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 7297489 bytes) in /home/purityho/public_html/wp-includes/wp-db.php on line 1262
+[30-Apr-2016 14:57:12 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 3702881 bytes) in /home/purityho/public_html/wp-includes/wp-db.php on line 1261
+[01-May-2016 17:19:07 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 3702887 bytes) in /home/purityho/public_html/wp-includes/wp-db.php on line 1261
+[02-May-2016 21:05:21 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 3755687 bytes) in /home/purityho/public_html/wp-includes/wp-db.php on line 1261
+[04-May-2016 07:55:56 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 3808461 bytes) in /home/purityho/public_html/wp-includes/wp-db.php on line 1261
+[06-May-2016 01:13:58 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 3808509 bytes) in /home/purityho/public_html/wp-includes/wp-db.php on line 1261
+[07-May-2016 01:46:20 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 3917615 bytes) in /home/purityho/public_html/wp-includes/wp-db.php on line 1261
+[08-May-2016 22:57:35 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 4170939 bytes) in /home/purityho/public_html/wp-includes/wp-db.php on line 1255
+[10-May-2016 05:04:35 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 7864320 bytes) in /home/purityho/public_html/wp-content/plugins/wordfence/lib/wfConfig.php on line 725
+[11-May-2016 12:38:32 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 7864320 bytes) in /home/purityho/public_html/wp-content/plugins/wordfence/lib/wfConfig.php on line 725
+[12-May-2016 21:12:48 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 7864320 bytes) in /home/purityho/public_html/wp-content/plugins/wordfence/lib/wfConfig.php on line 725
+[13-May-2016 22:46:29 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 7864320 bytes) in /home/purityho/public_html/wp-content/plugins/wordfence/lib/wfConfig.php on line 725
+[15-May-2016 19:07:51 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 7864320 bytes) in /home/purityho/public_html/wp-content/plugins/wordfence/lib/wfConfig.php on line 725
+[16-May-2016 23:53:21 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 6090361 bytes) in /home/purityho/public_html/wp-content/plugins/wordfence/lib/wfConfig.php on line 725
+[18-May-2016 02:49:33 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 7864320 bytes) in /home/purityho/public_html/wp-content/plugins/wordfence/lib/wfConfig.php on line 725
+[19-May-2016 06:27:21 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 6090369 bytes) in /home/purityho/public_html/wp-content/plugins/wordfence/lib/wfConfig.php on line 725
+[20-May-2016 16:26:47 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 7864320 bytes) in /home/purityho/public_html/wp-content/plugins/wordfence/lib/wfConfig.php on line 725
+[22-May-2016 04:16:54 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 6090353 bytes) in /home/purityho/public_html/wp-content/plugins/wordfence/lib/wfConfig.php on line 725
+[23-May-2016 05:00:08 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 6090353 bytes) in /home/purityho/public_html/wp-content/plugins/wordfence/lib/wfConfig.php on line 725
+[24-May-2016 06:11:50 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 7864320 bytes) in /home/purityho/public_html/wp-content/plugins/wordfence/lib/wfConfig.php on line 725
+[25-May-2016 14:10:24 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 6090357 bytes) in /home/purityho/public_html/wp-content/plugins/wordfence/lib/wfConfig.php on line 725
+[27-May-2016 15:38:40 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 77 bytes) in /home/purityho/public_html/wp-content/plugins/wordfence/lib/wfConfig.php on line 729
+[29-May-2016 08:13:15 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 77 bytes) in /home/purityho/public_html/wp-content/plugins/wordfence/lib/wfConfig.php on line 729
+[30-May-2016 19:59:03 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 2 bytes) in /home/purityho/public_html/wp-content/plugins/wordfence/lib/wfConfig.php on line 729
+[31-May-2016 22:57:43 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 77 bytes) in /home/purityho/public_html/wp-content/plugins/wordfence/lib/wfConfig.php on line 729
+[02-Jun-2016 16:31:55 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 77 bytes) in /home/purityho/public_html/wp-content/plugins/wordfence/lib/wfConfig.php on line 729
+[03-Jun-2016 19:16:19 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32 bytes) in /home/purityho/public_html/wp-content/plugins/wordfence/lib/wfConfig.php on line 729
+[05-Jun-2016 08:32:52 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32 bytes) in /home/purityho/public_html/wp-content/plugins/wordfence/lib/wfConfig.php on line 729
+[06-Jun-2016 14:17:06 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32 bytes) in /home/purityho/public_html/wp-content/plugins/wordfence/lib/wfConfig.php on line 729
+[07-Jun-2016 20:43:57 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 77 bytes) in /home/purityho/public_html/wp-content/plugins/wordfence/lib/wfConfig.php on line 729
+[27-Jul-2016 21:12:38 UTC] PHP Notice:  Undefined index: coreUnknown in /home/purityho/public_html/wp-content/plugins/wordfence/lib/wordfenceHash.php on line 141
+[28-Jul-2016 21:39:33 UTC] PHP Notice:  Undefined index: coreUnknown in /home/purityho/public_html/wp-content/plugins/wordfence/lib/wordfenceHash.php on line 141
+[29-Jul-2016 11:26:10 UTC] PHP Notice:  Undefined index: coreUnknown in /home/purityho/public_html/wp-content/plugins/wordfence/lib/wordfenceHash.php on line 141
+[30-Jul-2016 03:52:11 UTC] PHP Notice:  Undefined index: coreUnknown in /home/purityho/public_html/wp-content/plugins/wordfence/lib/wordfenceHash.php on line 141
+[30-Jul-2016 17:01:59 UTC] PHP Notice:  Undefined index: coreUnknown in /home/purityho/public_html/wp-content/plugins/wordfence/lib/wordfenceHash.php on line 141
+[31-Jul-2016 09:51:25 UTC] PHP Notice:  Undefined index: coreUnknown in /home/purityho/public_html/wp-content/plugins/wordfence/lib/wordfenceHash.php on line 141
+[31-Jul-2016 18:38:30 UTC] PHP Notice:  Undefined index: coreUnknown in /home/purityho/public_html/wp-content/plugins/wordfence/lib/wordfenceHash.php on line 141
+[01-Aug-2016 14:07:17 UTC] PHP Notice:  Undefined index: coreUnknown in /home/purityho/public_html/wp-content/plugins/wordfence/lib/wordfenceHash.php on line 141
+[02-Aug-2016 01:32:30 UTC] PHP Notice:  Undefined index: coreUnknown in /home/purityho/public_html/wp-content/plugins/wordfence/lib/wordfenceHash.php on line 141
+[02-Aug-2016 09:16:55 UTC] PHP Notice:  Undefined index: coreUnknown in /home/purityho/public_html/wp-content/plugins/wordfence/lib/wordfenceHash.php on line 141
+[02-Aug-2016 17:24:15 UTC] PHP Notice:  Undefined index: coreUnknown in /home/purityho/public_html/wp-content/plugins/wordfence/lib/wordfenceHash.php on line 141
+[03-Aug-2016 07:25:23 UTC] PHP Notice:  Undefined index: coreUnknown in /home/purityho/public_html/wp-content/plugins/wordfence/lib/wordfenceHash.php on line 141
+[04-Aug-2016 02:26:33 UTC] PHP Notice:  Undefined index: coreUnknown in /home/purityho/public_html/wp-content/plugins/wordfence/lib/wordfenceHash.php on line 141
+[04-Aug-2016 19:48:14 UTC] PHP Notice:  Undefined index: coreUnknown in /home/purityho/public_html/wp-content/plugins/wordfence/lib/wordfenceHash.php on line 141
+[05-Aug-2016 04:24:44 UTC] PHP Notice:  Undefined index: coreUnknown in /home/purityho/public_html/wp-content/plugins/wordfence/lib/wordfenceHash.php on line 141
+[05-Aug-2016 10:29:58 UTC] PHP Notice:  Undefined index: coreUnknown in /home/purityho/public_html/wp-content/plugins/wordfence/lib/wordfenceHash.php on line 141
+[06-Aug-2016 08:47:55 UTC] PHP Notice:  Undefined index: coreUnknown in /home/purityho/public_html/wp-content/plugins/wordfence/lib/wordfenceHash.php on line 141
+[07-Aug-2016 05:42:19 UTC] PHP Notice:  Undefined index: coreUnknown in /home/purityho/public_html/wp-content/plugins/wordfence/lib/wordfenceHash.php on line 141
+[07-Aug-2016 14:07:47 UTC] PHP Notice:  Undefined index: coreUnknown in /home/purityho/public_html/wp-content/plugins/wordfence/lib/wordfenceHash.php on line 141
+[08-Aug-2016 08:32:15 UTC] PHP Notice:  Undefined index: coreUnknown in /home/purityho/public_html/wp-content/plugins/wordfence/lib/wordfenceHash.php on line 141
+[09-Aug-2016 03:18:50 UTC] PHP Notice:  Undefined index: coreUnknown in /home/purityho/public_html/wp-content/plugins/wordfence/lib/wordfenceHash.php on line 141
+[09-Aug-2016 13:23:46 UTC] PHP Notice:  Undefined index: coreUnknown in /home/purityho/public_html/wp-content/plugins/wordfence/lib/wordfenceHash.php on line 141
+[10-Aug-2016 13:30:36 UTC] PHP Notice:  Undefined index: coreUnknown in /home/purityho/public_html/wp-content/plugins/wordfence/lib/wordfenceHash.php on line 141
+[11-Aug-2016 11:49:27 UTC] PHP Notice:  Undefined index: coreUnknown in /home/purityho/public_html/wp-content/plugins/wordfence/lib/wordfenceHash.php on line 141
+[12-Aug-2016 01:34:46 UTC] PHP Notice:  Undefined index: coreUnknown in /home/purityho/public_html/wp-content/plugins/wordfence/lib/wordfenceHash.php on line 141
+[16-Sep-2016 21:16:06 UTC] PHP Notice:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/purityho/public_html/wp-includes/update.php on line 306
+[22-Sep-2016 17:33:05 UTC] PHP Notice:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/purityho/public_html/wp-includes/update.php on line 123

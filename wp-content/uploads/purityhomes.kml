@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+            <kml xmlns="http://www.opengis.net/kml/2.2">
+              <Placemark>
+                <name>Purity Homes</name>
+                <description></description>
+                <Point>
+                  <coordinates>172.6373347,-43.5141525</coordinates>
+                </Point>
+              </Placemark>
+            </kml>

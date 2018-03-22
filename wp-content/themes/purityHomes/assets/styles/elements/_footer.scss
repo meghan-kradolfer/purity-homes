@@ -1,0 +1,29 @@
+.footer {
+  position: relative;
+
+  p {
+    font-size: 13px;
+  }
+
+  #map_footer {
+    margin:0;
+    height: 300px;
+  }
+  .col {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  ul.custom {
+    li {
+      display: inline-block;
+    }
+  }
+  .padding-top {
+    padding-top: 100px;
+    display: inline-block;
+    @media (max-width: 1300px) {
+      padding-top: 20px;
+    }
+  }
+}

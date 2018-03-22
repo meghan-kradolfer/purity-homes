@@ -1,0 +1,121 @@
+#floorplan-map {
+    position: relative;
+    .floorplan-sections {
+      top:0;
+      left:0;
+      right:0;
+      bottom:0;
+      position: absolute;
+      @media (max-width: $container-lg) {
+        display:none;
+      }
+      polygon {
+        @include transition(fill .5s ease);
+        fill: transparent;
+        cursor: pointer;
+        z-index: 99;
+        &:hover, &.active {
+          fill: RGBA(117, 178, 84, 0.6);
+        }
+
+      }
+      #area_4 {
+        display: none;
+        &.active {
+          display: block!important;
+        }
+      }
+    }
+}
+
+
+
+#floorplan-map #overlay {
+    @include transition(all .5s ease);
+    opacity: 0;
+    position: absolute;
+    max-width: 350px;
+    background-color: RGBA(117, 178, 84, 0.9);
+    border-radius: 3px;
+    .overlay-close {
+      position: absolute;
+      top: -8px;
+      right: -6px;
+      color: RGBA(117, 178, 84, 0.9);
+      background-color: RGB(242, 242, 242);
+      border-radius: 100%;
+      padding: 4px 9px;
+      cursor: pointer;
+      box-shadow: rgba(0, 0, 0, 0.1) 0 1px 6px, rgba(0, 0, 0, 0.1) 0 1px 4px;
+    }
+    .content {
+      @include transition(all .5s ease);
+      color: #fff;
+      padding: 10px;
+      h3,p {
+        font-style: normal;
+        color: #fff;
+      }
+      &:after {
+        content: '';
+        width: 0;
+        height: 0;
+         border-left: 10px solid transparent;
+         border-right: 10px solid transparent;
+         border-top: 10px solid RGBA(117, 178, 84, 0.9);
+         position: absolute;
+         bottom:-10px;
+         left:0;
+         right:0;
+         margin:0 auto;
+         display: block;
+      }
+    }
+      @media (max-width: $container-lg) {
+        position: static;
+        max-width: 100%;
+      }
+}
+
+#floorplan-nav {
+  margin-top: 30px;
+  ul {
+    margin-left: -30px;
+  }
+  ul li {
+    transition: all .5s ease;
+    display: inline-block;
+    margin-left: -2px;
+    list-style: none;
+    color: #fff;
+    padding:10px;
+    background-color: $gray-dark;
+    border-bottom: 2px solid black;
+    font-size: 11px;
+    cursor: pointer;
+    &:hover {
+      background-color: black;
+    }
+    &.active {
+      border-bottom: 2px solid $brand-secondary;
+      background-color: black;
+    }
+    &:before {
+      display: none;
+    }
+  }
+  ul:after {
+    content: '';
+    display: block;
+    clear: both;
+  }
+  @media (max-width: $container-lg) {
+    ul {
+      margin-left: 0;
+    }
+    ul li {
+      display: block;
+      border-right: 0;
+    }
+  }
+}
