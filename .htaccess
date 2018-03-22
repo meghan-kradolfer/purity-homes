@@ -15,11 +15,11 @@
 </IfModule>
 <IfModule mod_rewrite.c>
 RewriteEngine On
-RewriteBase /purity_homes/
+RewriteBase /purity-homes/
 RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /purity_homes/index.php [L]
+RewriteRule . /purity-homes/index.php [L]
 </IfModule>
 
 # END WordPress
